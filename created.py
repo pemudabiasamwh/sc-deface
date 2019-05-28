@@ -1,8 +1,9 @@
-#!/usr/bin/phyton
+#!/usr/bin/python
 ##################
 # jangan comot oke #
 # bikin tools itu tidak mudah brader #
 # Copyright @Pemuda biasa ~MWH~ #
+###################
 mess = """===============================================
             Scrip Deface Sederhana            
             -----------+=+---------					                	
